@@ -1,0 +1,64 @@
+body {
+  background-color: ;
+}
+
+h1 {
+  text-align: center;
+  color: #DC1A1A;
+  font-size: 60px;
+  background-color: #F1F736;
+}
+
+.title {
+  font-size: 40px;
+  border: solid;
+  margin-bottom: 3px;
+
+
+}
+
+.description {
+  font-size: 20px;
+  border: solid;
+  margin-bottom: 3px;
+}
+
+.url {
+  font-size: 20px;
+  border: solid;
+  margin-bottom: 3px;
+}
+
+.link {
+  font-size: 20px;
+
+  margin-bottom: 3px;
+}
+
+.photo {
+
+}
+
+.image {
+  width: 200px;
+
+}
+
+.status {
+  font-size: 20px;
+  color: green;
+  border: solid;
+  margin-bottom: 3px;
+}
+
+.duedate {
+  font-size: 20px;
+  color: red;
+  border: solid;
+  margin-bottom: 3px;
+
+}
+
+header {
+  text-align: center;
+}
